@@ -1,0 +1,14 @@
+[Bb]in/
+[Oo]bj/
+Publish/
+MiniConsole/bin/
+MiniConsole/obj/
+MiniConsole/Publish/
+Installer/
+.vs/
+.vscode/
+*.user
+*.suo
+*.DotSettings.user
+*.exe
+*.pdb
